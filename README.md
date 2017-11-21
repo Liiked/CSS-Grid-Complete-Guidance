@@ -7,7 +7,7 @@ css 网格布局完全指南，[查看原文地址](https://css-tricks.com/snipp
 
 [教程（1）网格容器](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/教程(1)网格容器.md)
 
-[教程（2）网格项]()
+[教程（2）网格项](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/教程(2)网格项.md)
 
 ## 网格属性表
 
@@ -30,12 +30,12 @@ css 网格布局完全指南，[查看原文地址](https://css-tricks.com/snipp
 - [align-items](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(1)%E7%BD%91%E6%A0%BC%E5%AE%B9%E5%99%A8.md#align-items)
 - [align-content](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(1)%E7%BD%91%E6%A0%BC%E5%AE%B9%E5%99%A8.md#align-content)
 ## 网格项（Grid Items）
-- grid-column-start
-- grid-column-end
-- grid-row-start
-- grid-row-end
-- grid-column
-- grid-row
-- grid-area
-- justify-self
-- align-self
+- [grid-column-start](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-column-start--grid-column-end-grid-row-start--grid-row-end)
+- [grid-column-end](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-column-start--grid-column-end-grid-row-start--grid-row-end)
+- [grid-row-start](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-column-start--grid-column-end-grid-row-start--grid-row-end)
+- [grid-row-end](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-column-start--grid-column-end-grid-row-start--grid-row-end)
+- [grid-column](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-column)
+- [grid-row](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-row)
+- [grid-area](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#grid-area)
+- [justify-self](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#justify-self)
+- [align-self](https://github.com/Liiked/CSS-Grid-Complete-Guidance/blob/master/%E6%95%99%E7%A8%8B(2)%E7%BD%91%E6%A0%BC%E9%A1%B9.md#align-self)
